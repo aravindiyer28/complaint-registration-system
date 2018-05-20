@@ -1,0 +1,21 @@
+#overall
+{
+background-color:#00FFFF;
+height:60px;
+width:80%;
+margin:0px auto;
+}
+#description
+{
+	background-color:#00FFFF;
+	height:300px;
+	width:60%;
+	margin:0px auto;
+}
+#login
+{
+background-color:#00FFFF;
+height:240px;
+margin:0px auto;
+width:80%;
+}
